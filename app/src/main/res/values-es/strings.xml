@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="name">Nombre: </string>
+    <string name="hint_name">Introduce tu nombre: </string>
+    <string name="type">Tipo: </string>
+    <string name="direction_name">Direccion: </string>
+    <string name="hint_direction">Introduce tu direccion: </string>
+    <string name="phone">Telefono: </string>
+    <string name="hint_phone">Telefono de contacto</string>
+    <string name="url">Url: </string>
+    <string name="hint_url">Página Web</string>
+    <string name="comen">Comentario: </string>
+    <string name="hint_comen">Introduce tus notas</string>
+</resources>
