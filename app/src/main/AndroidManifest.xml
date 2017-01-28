@@ -21,6 +21,8 @@
             android:label="About"
             android:theme="@android:style/Theme.Dialog"/>
 
+        <activity android:name=".VistaLugar"/>
+
 
     </application>
 
