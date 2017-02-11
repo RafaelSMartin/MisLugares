@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int whichButton) {
                         long id = Long.parseLong(entrada.getText().toString());
                         Intent i = new Intent(MainActivity.this, VistaLugar.class);
+                        i.putExtra("id", id);
                         startActivity(i);
                     }
                 })
