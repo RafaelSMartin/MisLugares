@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mis Lugares</string>
-    <string name="name">Name: </string>
-    <string name="hint_name">Insert your name here</string>
-    <string name="type">Type: </string>
-    <string name="direction_name">Direction: </string>
-    <string name="hint_direction">Insert place direction</string>
-    <string name="phone">Phone: </string>
-    <string name="hint_phone">Contact phone</string>
+    <string name="name">Nombre: </string>
+    <string name="hint_name">Introduce tu nombre aqui</string>
+    <string name="type">Tipo: </string>
+    <string name="direction_name">Direccion: </string>
+    <string name="hint_direction">Introduce tu direccion</string>
+    <string name="phone">Telefono: </string>
+    <string name="hint_phone">Telefono de contacto</string>
     <string name="url">Url: </string>
-    <string name="hint_url">Web page</string>
-    <string name="comen">Comentarie: </string>
-    <string name="hint_comen">Insert your notes</string>
+    <string name="hint_url">Pagina web</string>
+    <string name="comen">Comentario: </string>
+    <string name="hint_comen">Introduce tus notas</string>
 </resources>
